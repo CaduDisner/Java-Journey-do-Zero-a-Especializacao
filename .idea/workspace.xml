@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa7c488-237c-4168-a29f-896cce6312b0" name="Changes" comment="Inserção dos Arquivos .md (Installation, First Steps, Environment Configuration e Bônus).">
-      <change afterPath="$PROJECT_DIR$/00-Setup/Bônus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-Setup/Environment-Configuration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-Setup/First-Steps.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00-Setup/Installation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso de Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java Journey.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +31,23 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000092910415" />
-      <entry key="S2" value="1.0132195352480111" />
-      <entry key="S5" value="1.433528334334648" />
-      <entry key="S10" value="3.1228372523956405" />
-      <entry key="S30" value="9.71945002253011" />
-      <entry key="S60" value="14.364841181088499" />
-      <entry key="M2" value="18.159573001706207" />
-      <entry key="M5" value="23.473779492439583" />
-      <entry key="M10" value="30.59108549491095" />
-      <entry key="M15" value="35.85561776170487" />
-      <entry key="M30" value="44.45397151729339" />
-      <entry key="H1" value="50.74841247629191" />
-      <entry key="H2" value="54.591295995603375" />
-      <entry key="H4" value="56.71942927437784" />
-      <entry key="D1" value="58.60881530873579" />
-      <entry key="W1" value="58.94383805344777" />
+      <entry key="MS100" value="1.0000416882402574" />
+      <entry key="MS500" value="1.13304627280667" />
+      <entry key="S2" value="1.6039495724479353" />
+      <entry key="S5" value="1.8173353284882832" />
+      <entry key="S10" value="1.9040659978609322" />
+      <entry key="S30" value="1.9669449190131472" />
+      <entry key="S60" value="1.9862614154587666" />
+      <entry key="M2" value="2.0832103450074326" />
+      <entry key="M5" value="3.234664398459028" />
+      <entry key="M10" value="7.967542920175156" />
+      <entry key="M15" value="13.84673745265716" />
+      <entry key="M30" value="27.81651299175664" />
+      <entry key="H1" value="41.522364601105544" />
+      <entry key="H2" value="51.3511255495565" />
+      <entry key="H4" value="57.273319093540735" />
+      <entry key="D1" value="62.8181855365304" />
+      <entry key="W1" value="63.82961514135826" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -75,23 +69,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460576467255959" />
-      <entry key="MS500" value="0.9889709255568513" />
-      <entry key="S2" value="1.010411674904906" />
-      <entry key="S5" value="1.4319153716649515" />
-      <entry key="S10" value="3.121011788302402" />
-      <entry key="S30" value="9.717511286312615" />
-      <entry key="S60" value="14.363404220436198" />
-      <entry key="M2" value="18.158644237681145" />
-      <entry key="M5" value="23.473150986829967" />
-      <entry key="M10" value="30.59030742348322" />
-      <entry key="M15" value="35.85476970754007" />
-      <entry key="M30" value="44.45321671908038" />
-      <entry key="H1" value="50.747895131177884" />
-      <entry key="H2" value="54.59099133340626" />
-      <entry key="H4" value="56.719263725623215" />
-      <entry key="D1" value="58.60878571597282" />
-      <entry key="W1" value="58.94383377459515" />
+      <entry key="MS100" value="0.9460968137756924" />
+      <entry key="MS500" value="1.120367530016895" />
+      <entry key="S2" value="1.5992999419677771" />
+      <entry key="S5" value="1.8152077830259292" />
+      <entry key="S10" value="1.9029478239950475" />
+      <entry key="S30" value="1.9665590473144587" />
+      <entry key="S60" value="1.9860665107670608" />
+      <entry key="M2" value="2.0831086444668" />
+      <entry key="M5" value="3.234599183139748" />
+      <entry key="M10" value="7.967396555765013" />
+      <entry key="M15" value="13.846477844714489" />
+      <entry key="M30" value="27.81610163351037" />
+      <entry key="H1" value="41.521981837483736" />
+      <entry key="H2" value="51.35086228100518" />
+      <entry key="H4" value="57.273164420608374" />
+      <entry key="D1" value="62.818156023524914" />
+      <entry key="W1" value="63.82961082596501" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -126,6 +120,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AWAKER\Downloads\Java\GitHub\Curso de Java\01-Java-Fundamentals\Variables-and-Data-Types" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java Journey" />
