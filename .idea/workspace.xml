@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa7c488-237c-4168-a29f-896cce6312b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ffa7c488-237c-4168-a29f-896cce6312b0" name="Changes" comment="Inserção dos Arquivos .md (Installation, First Steps, Environment Configuration e Bônus).">
+      <change afterPath="$PROJECT_DIR$/00-Setup/Bônus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Setup/Environment-Configuration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Setup/First-Steps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00-Setup/Installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso de Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java Journey.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Aula-0.1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,22 +38,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000003884" />
-      <entry key="S5" value="1.0000108556075777" />
-      <entry key="S10" value="1.0032947849061344" />
-      <entry key="S30" value="1.1488020870697644" />
-      <entry key="S60" value="1.3857487356683937" />
-      <entry key="M2" value="1.621086737636857" />
-      <entry key="M5" value="1.826534340675563" />
-      <entry key="M10" value="1.9091393406269266" />
-      <entry key="M15" value="1.9384697982418253" />
-      <entry key="M30" value="1.9687465087636835" />
-      <entry key="H1" value="1.984249210700056" />
-      <entry key="H2" value="1.992093347775327" />
-      <entry key="H4" value="1.99603882844763" />
-      <entry key="D1" value="1.9993387124516793" />
-      <entry key="W1" value="1.9999055035657305" />
+      <entry key="MS500" value="1.0000000092910415" />
+      <entry key="S2" value="1.0132195352480111" />
+      <entry key="S5" value="1.433528334334648" />
+      <entry key="S10" value="3.1228372523956405" />
+      <entry key="S30" value="9.71945002253011" />
+      <entry key="S60" value="14.364841181088499" />
+      <entry key="M2" value="18.159573001706207" />
+      <entry key="M5" value="23.473779492439583" />
+      <entry key="M10" value="30.59108549491095" />
+      <entry key="M15" value="35.85561776170487" />
+      <entry key="M30" value="44.45397151729339" />
+      <entry key="H1" value="50.74841247629191" />
+      <entry key="H2" value="54.591295995603375" />
+      <entry key="H4" value="56.71942927437784" />
+      <entry key="D1" value="58.60881530873579" />
+      <entry key="W1" value="58.94383805344777" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -70,30 +75,36 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7955364837549187" />
-      <entry key="MS500" value="0.9552829363824373" />
-      <entry key="S2" value="0.9886282245674124" />
-      <entry key="S5" value="0.9954448854512826" />
-      <entry key="S10" value="1.0007497819377036" />
-      <entry key="S30" value="1.1440143939813228" />
-      <entry key="S60" value="1.380113999734001" />
-      <entry key="M2" value="1.6166522984306047" />
-      <entry key="M5" value="1.8241943892864856" />
-      <entry key="M10" value="1.9078553915251315" />
-      <entry key="M15" value="1.9375868410218233" />
-      <entry key="M30" value="1.9682910959975348" />
-      <entry key="H1" value="1.9840179363260564" />
-      <entry key="H2" value="1.991976807835719" />
-      <entry key="H4" value="1.9959803314327276" />
-      <entry key="D1" value="1.9993289312993918" />
-      <entry key="W1" value="1.99990410548165" />
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9889709255568513" />
+      <entry key="S2" value="1.010411674904906" />
+      <entry key="S5" value="1.4319153716649515" />
+      <entry key="S10" value="3.121011788302402" />
+      <entry key="S30" value="9.717511286312615" />
+      <entry key="S60" value="14.363404220436198" />
+      <entry key="M2" value="18.158644237681145" />
+      <entry key="M5" value="23.473150986829967" />
+      <entry key="M10" value="30.59030742348322" />
+      <entry key="M15" value="35.85476970754007" />
+      <entry key="M30" value="44.45321671908038" />
+      <entry key="H1" value="50.747895131177884" />
+      <entry key="H2" value="54.59099133340626" />
+      <entry key="H4" value="56.719263725623215" />
+      <entry key="D1" value="58.60878571597282" />
+      <entry key="W1" value="58.94383377459515" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Lt18sciYwnXbTvuZ4XdaErnKTE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,16 +114,31 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Aula-0.2",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java Journey" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java Journey" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,5 +169,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alteração do Readme.md // Primeiro Commit do Projeto." />
+    <MESSAGE value="Inserção dos Arquivos .md (Installation, First Steps, Environment Configuration e Bônus)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserção dos Arquivos .md (Installation, First Steps, Environment Configuration e Bônus)." />
   </component>
 </project>
